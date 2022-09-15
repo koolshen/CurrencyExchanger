@@ -1,0 +1,17 @@
+C:\Users\kools\Documents\repos\CurrencyExchanger\CurrencyExchanger.Core\CurrencyExchanger.Core\bin\Debug\net6.0\CurrencyExchanger.Core.deps.json
+C:\Users\kools\Documents\repos\CurrencyExchanger\CurrencyExchanger.Core\CurrencyExchanger.Core\bin\Debug\net6.0\CurrencyExchanger.Core.dll
+C:\Users\kools\Documents\repos\CurrencyExchanger\CurrencyExchanger.Core\CurrencyExchanger.Core\bin\Debug\net6.0\CurrencyExchanger.Core.pdb
+C:\Users\kools\Documents\repos\CurrencyExchanger\CurrencyExchanger.Core\CurrencyExchanger.Core\obj\Debug\net6.0\CurrencyExchanger.Core.csproj.AssemblyReference.cache
+C:\Users\kools\Documents\repos\CurrencyExchanger\CurrencyExchanger.Core\CurrencyExchanger.Core\obj\Debug\net6.0\CurrencyExchanger.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kools\Documents\repos\CurrencyExchanger\CurrencyExchanger.Core\CurrencyExchanger.Core\obj\Debug\net6.0\CurrencyExchanger.Core.AssemblyInfoInputs.cache
+C:\Users\kools\Documents\repos\CurrencyExchanger\CurrencyExchanger.Core\CurrencyExchanger.Core\obj\Debug\net6.0\CurrencyExchanger.Core.AssemblyInfo.cs
+C:\Users\kools\Documents\repos\CurrencyExchanger\CurrencyExchanger.Core\CurrencyExchanger.Core\obj\Debug\net6.0\CurrencyExchanger.Core.csproj.CoreCompileInputs.cache
+C:\Users\kools\Documents\repos\CurrencyExchanger\CurrencyExchanger.Core\CurrencyExchanger.Core\obj\Debug\net6.0\CurrencyExchanger.Core.dll
+C:\Users\kools\Documents\repos\CurrencyExchanger\CurrencyExchanger.Core\CurrencyExchanger.Core\obj\Debug\net6.0\refint\CurrencyExchanger.Core.dll
+C:\Users\kools\Documents\repos\CurrencyExchanger\CurrencyExchanger.Core\CurrencyExchanger.Core\obj\Debug\net6.0\CurrencyExchanger.Core.pdb
+C:\Users\kools\Documents\repos\CurrencyExchanger\CurrencyExchanger.Core\CurrencyExchanger.Core\obj\Debug\net6.0\ref\CurrencyExchanger.Core.dll
+C:\Users\kools\Documents\repos\CurrencyExchanger\CurrencyExchanger.Core\CurrencyExchanger.Core\bin\Debug\net6.0\CurrencyExchanger.Infrastructure.dll
+C:\Users\kools\Documents\repos\CurrencyExchanger\CurrencyExchanger.Core\CurrencyExchanger.Core\bin\Debug\net6.0\CurrencyExchanger.Infrastructure.pdb
+C:\Users\kools\Documents\repos\CurrencyExchanger\CurrencyExchanger.Core\CurrencyExchanger.Core\obj\Debug\net6.0\CurrencyExchanger.Core.csproj.CopyComplete
+C:\Users\kools\Documents\repos\CurrencyExchanger\CurrencyExchanger.Core\CurrencyExchanger.Core\bin\Debug\net6.0\CurrencyExchanger.Data.dll
+C:\Users\kools\Documents\repos\CurrencyExchanger\CurrencyExchanger.Core\CurrencyExchanger.Core\bin\Debug\net6.0\CurrencyExchanger.Data.pdb

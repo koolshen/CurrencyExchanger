@@ -1,0 +1,12 @@
+C:\Users\kools\Documents\repos\CurrencyExchanger\CurrencyExchanger.Core\CurrencyExchanger.Data\bin\Debug\net6.0\CurrencyExchanger.Data.deps.json
+C:\Users\kools\Documents\repos\CurrencyExchanger\CurrencyExchanger.Core\CurrencyExchanger.Data\bin\Debug\net6.0\CurrencyExchanger.Data.dll
+C:\Users\kools\Documents\repos\CurrencyExchanger\CurrencyExchanger.Core\CurrencyExchanger.Data\bin\Debug\net6.0\CurrencyExchanger.Data.pdb
+C:\Users\kools\Documents\repos\CurrencyExchanger\CurrencyExchanger.Core\CurrencyExchanger.Data\obj\Debug\net6.0\CurrencyExchanger.Data.csproj.AssemblyReference.cache
+C:\Users\kools\Documents\repos\CurrencyExchanger\CurrencyExchanger.Core\CurrencyExchanger.Data\obj\Debug\net6.0\CurrencyExchanger.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kools\Documents\repos\CurrencyExchanger\CurrencyExchanger.Core\CurrencyExchanger.Data\obj\Debug\net6.0\CurrencyExchanger.Data.AssemblyInfoInputs.cache
+C:\Users\kools\Documents\repos\CurrencyExchanger\CurrencyExchanger.Core\CurrencyExchanger.Data\obj\Debug\net6.0\CurrencyExchanger.Data.AssemblyInfo.cs
+C:\Users\kools\Documents\repos\CurrencyExchanger\CurrencyExchanger.Core\CurrencyExchanger.Data\obj\Debug\net6.0\CurrencyExchanger.Data.csproj.CoreCompileInputs.cache
+C:\Users\kools\Documents\repos\CurrencyExchanger\CurrencyExchanger.Core\CurrencyExchanger.Data\obj\Debug\net6.0\CurrencyExchanger.Data.dll
+C:\Users\kools\Documents\repos\CurrencyExchanger\CurrencyExchanger.Core\CurrencyExchanger.Data\obj\Debug\net6.0\refint\CurrencyExchanger.Data.dll
+C:\Users\kools\Documents\repos\CurrencyExchanger\CurrencyExchanger.Core\CurrencyExchanger.Data\obj\Debug\net6.0\CurrencyExchanger.Data.pdb
+C:\Users\kools\Documents\repos\CurrencyExchanger\CurrencyExchanger.Core\CurrencyExchanger.Data\obj\Debug\net6.0\ref\CurrencyExchanger.Data.dll

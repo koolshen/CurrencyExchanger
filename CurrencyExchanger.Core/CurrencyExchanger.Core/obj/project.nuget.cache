@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "XqQNNdb/IC1oAEo5YyLRrkbUTKVGeq8wOg5NlFO/faSMEBvTRIR6i0h+j0jkr6DNxPEgSXAqPcaN5gKK+GhudQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\kools\\Documents\\repos\\CurrencyExchanger\\CurrencyExchanger.Core\\CurrencyExchanger.Core\\CurrencyExchanger.Core.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\kools\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\6.0.0\\microsoft.extensions.logging.abstractions.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
